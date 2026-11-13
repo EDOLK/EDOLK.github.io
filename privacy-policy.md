@@ -28,4 +28,4 @@ Rogue Connector isn't directed at children under 13.
 
 If this policy changes, the new version will be posted here with a new effective date.
 
-Contact: open an issue at <https://github.com/EDOLK/RogueConnector/issues>
+Contact: email at <edwardolkh@gmail.com>
