@@ -14,7 +14,7 @@ Rogue Connector has no accounts and doesn't collect personal information itself.
 
 ## Purchases (Google Play)
 
-- Google Play handles the "remove ads" purchase and payment. Rogue Connector never sees your payment details. The app only asks Google Play whether you own the purchase, so it can restore it on a reinstall or a new device. If a purchase is refunded, ads come back.
+- Google Play handles the "remove ads" purchase and payment. Rogue Connector never sees your payment details. The app only asks Google Play whether you own the purchase, so it can restore it on a reinstall or a new device. If Google Play revokes a purchase (for example, after a refund), ads come back.
 - Google Play's privacy policy: <https://policies.google.com/privacy>
 
 ## Data on your device
